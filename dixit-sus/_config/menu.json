@@ -1,0 +1,9 @@
+{
+  "menu-first-dixit-sus": {
+      "weight": 100000,
+      "title": "Subscription test",
+      "attr": {
+          "href": "index.html"
+      }
+  }
+}
